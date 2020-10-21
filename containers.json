@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "My Server vmdk",
+    "Format": "vmdk",
+    "UserBucket": {
+        "S3Bucket": "lab-om",
+        "S3Key": "Ub16-disk1.vmdk"
+    }
+}]
